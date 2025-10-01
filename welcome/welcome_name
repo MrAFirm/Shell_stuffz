@@ -1,0 +1,3 @@
+echo -e "Tell us your name, traveler."
+read entered_name
+echo -e "Welcome to your Linux / Shell Journey" $entered_name"."
